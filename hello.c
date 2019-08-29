@@ -3,6 +3,9 @@
   *CSCE 155E
   */
 
+#include <stdlib.h>
+#include <stdio.h>
+
 int main (int argc, char **argv) {
   printf("Jett Durante\n");
 +
