@@ -8,7 +8,6 @@
 
 int main (int argc, char **argv) {
   printf("Jett Durante\n");
-+
   printf("Undeclared\n");
   return 0
 }
